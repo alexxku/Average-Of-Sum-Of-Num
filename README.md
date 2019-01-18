@@ -11,7 +11,6 @@ namespace SumNumAverage
         {
             //Variable Declarations
             double totalSum, totalAverage;
-
             Console.WriteLine("Enter ten test scores from 0 to 100.");
             //Assign and call method
             totalSum = sumValue();
