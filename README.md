@@ -5,6 +5,7 @@ using System;
 
 namespace SumNumAverage
 {
+
     class Program
     {
         static void Main(string[] args)
